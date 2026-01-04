@@ -1,0 +1,27 @@
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+*.swp
+*.~*
+
+# Ignore Python cache or notebook outputs (if applicable)
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore logs and system outputs
+*.log
+
+# Ignore archives and compressed files
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+
+# Ignore editor/project files
+.vscode/
+.idea/

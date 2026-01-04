@@ -1,0 +1,52 @@
+[
+    {
+        "PeriodName": "1",
+        "StartTime": "08:00:00",
+        "EndTime": "08:25:00"
+    },
+    {
+        "PeriodName": "IGS",
+        "StartTime": "08:29:00",
+        "EndTime": "08:38:00"
+    },
+    {
+        "PeriodName": "2",
+        "StartTime": "08:42:00",
+        "EndTime": "09:07:00"
+    },
+    {
+        "PeriodName": "3",
+        "StartTime": "09:11:00",
+        "EndTime": "09:36:00"
+    },
+    {
+        "PeriodName": "4",
+        "StartTime": "09:40:00",
+        "EndTime": "10:05:00"
+    },
+    {
+        "PeriodName": "5",
+        "StartTime": "10:09:00",
+        "EndTime": "10:34:00"
+    },
+    {
+        "PeriodName": "6",
+        "StartTime": "10:38:00",
+        "EndTime": "11:03:00"
+    },
+    {
+        "PeriodName": "7",
+        "StartTime": "11:07:00",
+        "EndTime": "11:32:00"
+    },
+    {
+        "PeriodName": "8",
+        "StartTime": "11:36:00",
+        "EndTime": "12:01:00"
+    },
+    {
+        "PeriodName": "9",
+        "StartTime": "12:05:00",
+        "EndTime": "12:30:00"
+    }
+]
