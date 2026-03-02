@@ -1,0 +1,27 @@
+[
+  {
+    "PeriodName": "IGS",
+    "StartTime": "08:00:00",
+    "EndTime": "12:30:00"
+  },
+  {
+    "PeriodName": "Juniors: Gym",
+    "StartTime": "09:00:00",
+    "EndTime": "10:15:00"
+  },
+  {
+    "PeriodName": "Seniors (AAST, ACAHA, AMST): Upper Caf",
+    "StartTime": "09:00:00",
+    "EndTime": "10:15:00"
+  },
+  {
+    "PeriodName": "Seniors (ABF, AEDT, ATCS, AVPA): Upper Caf",
+    "StartTime": "10:30:00",
+    "EndTime": "11:45:00"
+  },
+  {
+    "PeriodName": "Sophomores: Gym",
+    "StartTime": "10:45:00",
+    "EndTime": "11:45:00"
+  }
+]
