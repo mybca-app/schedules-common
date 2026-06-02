@@ -12,22 +12,22 @@
   {
     "PeriodName": "Exhibitions: Session 1",
     "StartTime": "09:00:00",
-    "EndTime": "09:30:00"
+    "EndTime": "09:25:00"
   },
   {
     "PeriodName": "Exhibitions: Session 2",
     "StartTime": "09:30:00",
-    "EndTime": "10:00:00"
+    "EndTime": "09:55:00"
   },
   {
     "PeriodName": "Exhibitions: Session 3",
     "StartTime": "10:00:00",
-    "EndTime": "10:30:00"
+    "EndTime": "10:25:00"
   },
   {
     "PeriodName": "Exhibitions: Session 4",
     "StartTime": "10:30:00",
-    "EndTime": "11:00:00"
+    "EndTime": "10:55:00"
   },
   {
     "PeriodName": "4",
