@@ -1,0 +1,67 @@
+[
+  {
+    "PeriodName": "1",
+    "StartTime": "08:00:00",
+    "EndTime": "08:40:00"
+  },
+  {
+    "PeriodName": "IGS",
+    "StartTime": "08:44:00",
+    "EndTime": "08:56:00"
+  },
+  {
+    "PeriodName": "Exhibitions: Session 1",
+    "StartTime": "09:00:00",
+    "EndTime": "09:30:00"
+  },
+  {
+    "PeriodName": "Exhibitions: Session 2",
+    "StartTime": "09:30:00",
+    "EndTime": "10:00:00"
+  },
+  {
+    "PeriodName": "Exhibitions: Session 3",
+    "StartTime": "10:00:00",
+    "EndTime": "10:30:00"
+  },
+  {
+    "PeriodName": "Exhibitions: Session 4",
+    "StartTime": "10:30:00",
+    "EndTime": "11:00:00"
+  },
+  {
+    "PeriodName": "4",
+    "StartTime": "11:04:00",
+    "EndTime": "11:44:00"
+  },
+  {
+    "PeriodName": "5",
+    "StartTime": "11:48:00",
+    "EndTime": "12:28:00"
+  },
+  {
+    "PeriodName": "6",
+    "StartTime": "12:32:00",
+    "EndTime": "13:12:00"
+  },
+  {
+    "PeriodName": "2",
+    "StartTime": "13:16:00",
+    "EndTime": "13:56:00"
+  },
+  {
+    "PeriodName": "7",
+    "StartTime": "14:00:00",
+    "EndTime": "14:40:00"
+  },
+  {
+    "PeriodName": "8",
+    "StartTime": "14:44:00",
+    "EndTime": "15:24:00"
+  },
+  {
+    "PeriodName": "9",
+    "StartTime": "15:28:00",
+    "EndTime": "16:10:00"
+  }
+]
