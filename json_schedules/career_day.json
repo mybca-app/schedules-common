@@ -1,0 +1,42 @@
+[
+  {
+    "PeriodName": "IGS",
+    "StartTime": "08:00:00",
+    "EndTime": "08:10:00"
+  },
+  {
+    "PeriodName": "2",
+    "StartTime": "08:13:00",
+    "EndTime": "08:55:00"
+  },
+  {
+    "PeriodName": "3",
+    "StartTime": "08:58:00",
+    "EndTime": "09:40:00"
+  },
+  {
+    "PeriodName": "Career Day: Sess. 1",
+    "StartTime": "09:45:00",
+    "EndTime": "10:10:00"
+  },
+  {
+    "PeriodName": "Career Day: Sess. 2",
+    "StartTime": "10:20:00",
+    "EndTime": "10:45:00"
+  },
+  {
+    "PeriodName": "Career Day: Sess. 3",
+    "StartTime": "10:50:00",
+    "EndTime": "11:15:00"
+  },
+  {
+    "PeriodName": "Career Day: Sess. 4",
+    "StartTime": "11:20:00",
+    "EndTime": "11:45:00"
+  },
+  {
+    "PeriodName": "9",
+    "StartTime": "11:48:00",
+    "EndTime": "12:30:00"
+  }
+]
